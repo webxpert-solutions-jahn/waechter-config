@@ -1,15 +1,4 @@
 {
   "hinweis": "Ereignis-Liste für den Wächter auf dem Agenturserver. Wird vom Trading-Radar gepflegt. Keine Zugangsdaten, kein ntfy-Thema.",
-  "watches": [
-    {
-      "id": "probealarm-github",
-      "type": "contains",
-      "url": "https://www.mittwald.de/",
-      "needle": "mittwald",
-      "active_from": "2026-11-18T19:30:00+01:00",
-      "active_until": "2026-11-18T20:15:00+01:00",
-      "title": "Probealarm über GitHub",
-      "message": "Der Server hat die Ereignis-Liste aus GitHub gelesen. Vollautomatik steht."
-    }
-  ]
+  "watches": []
 }
