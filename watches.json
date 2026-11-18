@@ -1,17 +1,4 @@
 {
   "hinweis": "Ereignis-Liste für den Wächter auf dem Agenturserver. Wird vom Trading-Radar gepflegt. Keine Zugangsdaten, kein ntfy-Thema.",
-  "watches": [
-    {
-      "id": "test-sec8k-nvda",
-      "type": "sec8k",
-      "ticker": "NVDA",
-      "items": [
-        "2.02"
-      ],
-      "active_from": "2026-11-17T22:00:00+01:00",
-      "active_until": "2026-11-18T20:45:00+01:00",
-      "title": "TEST: SEC-8-K-Wächter",
-      "message": "Endtest: NVIDIA 8-K Items {wert} um {zeit} ({form}). Tippen öffnet das Dokument."
-    }
-  ]
+  "watches": []
 }
