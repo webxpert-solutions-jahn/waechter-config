@@ -44,6 +44,66 @@
       "title": "GTA VI: offizielle Zahlen da",
       "message": "Take-Two nennt offizielle Zahlen: {wert}. Zum Vergleich Sensor-Tower-Schätzung: 24,6 Mio. Stück / 2,36 Mrd. $ (ca. 2,15 Mrd. €). TTWO-Kurs prüfen. (Muster ungetestet)",
       "manuell": true
+    },
+    {
+      "id": "adi-zahlen-2026-11-24",
+      "type": "sec8k",
+      "ticker": "ADI",
+      "items": [
+        "2.02"
+      ],
+      "active_from": "2026-11-24T12:55:00+01:00",
+      "active_until": "2026-11-24T14:30:00+01:00",
+      "title": "ADI: Zahlen-8-K da",
+      "message": "Analog Devices hat die Quartalszahlen bei der SEC eingereicht ({zeit}). Umsatz über 4,3 Mrd. $ (ca. 3,9 Mrd. €) und Ausblick prüfen: {link}"
+    },
+    {
+      "id": "dell-zahlen-2026-11-24",
+      "type": "sec8k",
+      "ticker": "DELL",
+      "items": [
+        "2.02"
+      ],
+      "active_from": "2026-11-24T21:55:00+01:00",
+      "active_until": "2026-11-25T00:30:00+01:00",
+      "title": "DELL: Zahlen-8-K da",
+      "message": "Dell-Zahlen bei der SEC ({zeit}). Erwartet: ca. 50,6 Mrd. $ Umsatz (ca. 46 Mrd. €), Gewinn je Aktie ca. 6,63 $. KI-Server-Auftragsbestand ansehen: {link}"
+    },
+    {
+      "id": "adsk-zahlen-2026-11-24",
+      "type": "sec8k",
+      "ticker": "ADSK",
+      "items": [
+        "2.02"
+      ],
+      "active_from": "2026-11-24T21:55:00+01:00",
+      "active_until": "2026-11-25T00:30:00+01:00",
+      "title": "ADSK: Zahlen-8-K da",
+      "message": "Autodesk-Zahlen bei der SEC ({zeit}). Umsatz um 2,13 Mrd. $ (ca. 1,9 Mrd. €) erwartet, vor allem Ausblick prüfen: {link}"
+    },
+    {
+      "id": "wday-zahlen-2026-11-24",
+      "type": "sec8k",
+      "ticker": "WDAY",
+      "items": [
+        "2.02"
+      ],
+      "active_from": "2026-11-24T21:55:00+01:00",
+      "active_until": "2026-11-25T00:30:00+01:00",
+      "title": "WDAY: Zahlen-8-K da",
+      "message": "Workday-Zahlen bei der SEC ({zeit}). Abo-Umsatz über 2,515 Mrd. $ (ca. 2,29 Mrd. €) = über eigener Prognose. Ausblick prüfen: {link}"
+    },
+    {
+      "id": "hpq-zahlen-2026-11-24",
+      "type": "sec8k",
+      "ticker": "HPQ",
+      "items": [
+        "2.02"
+      ],
+      "active_from": "2026-11-24T21:55:00+01:00",
+      "active_until": "2026-11-25T00:30:00+01:00",
+      "title": "HPQ: Zahlen-8-K da",
+      "message": "HP-Zahlen bei der SEC ({zeit}). Eigene Prognose: Gewinn je Aktie 0,69–0,79 $ (ca. 0,63–0,72 €). Ausblick fürs neue Jahr prüfen: {link}"
     }
   ]
 }
