@@ -104,6 +104,17 @@
       "active_until": "2026-11-25T00:30:00+01:00",
       "title": "HPQ: Zahlen-8-K da",
       "message": "HP-Zahlen bei der SEC ({zeit}). Eigene Prognose: Gewinn je Aktie 0,69–0,79 $ (ca. 0,63–0,72 €). Ausblick fürs neue Jahr prüfen: {link}"
+    },
+    {
+      "id": "test-telegram-push-20261120-0721",
+      "type": "contains",
+      "url": "https://example.com/",
+      "needle": "Example Domain",
+      "active_from": "2026-11-20T07:20:00+01:00",
+      "active_until": "2026-11-20T07:45:00+01:00",
+      "title": "TEST: Telegram-Push",
+      "message": "Testmeldung von Claude (20.11. 07:21) – wenn du das auf Telegram siehst, laeuft der Waechter-Push. Eintrag laeuft 07:45 ab.",
+      "manuell": true
     }
   ]
 }
