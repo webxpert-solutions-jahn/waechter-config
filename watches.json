@@ -104,6 +104,18 @@
       "active_until": "2026-11-25T00:30:00+01:00",
       "title": "HPQ: Zahlen-8-K da",
       "message": "HP-Zahlen bei der SEC ({zeit}). Eigene Prognose: Gewinn je Aktie 0,69–0,79 $ (ca. 0,63–0,72 €). Ausblick fürs neue Jahr prüfen: {link}"
+    },
+    {
+      "id": "zm-zahlen-2026-11-23",
+      "type": "sec8k",
+      "ticker": "ZM",
+      "items": [
+        "2.02"
+      ],
+      "active_from": "2026-11-23T21:55:00+01:00",
+      "active_until": "2026-11-23T23:30:00+01:00",
+      "title": "ZM: Zahlen-8-K da",
+      "message": "Zoom-Zahlen bei der SEC ({zeit}). Eigene Prognose: Umsatz 1,275–1,280 Mrd. $ (ca. 1,16–1,17 Mrd. €), Gewinn je Aktie 1,46–1,48 $. Ausblick prüfen: {link}"
     }
   ]
 }
