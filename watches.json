@@ -1,4 +1,27 @@
 {
   "hinweis": "Ereignis-Liste für den Wächter auf dem Agenturserver. Wird vom Trading-Radar gepflegt. Keine Zugangsdaten, kein ntfy-Thema.",
-  "watches": []
+  "watches": [
+    {
+      "id": "ttwo-gta6-rekordzahlen-ir-liste",
+      "url": "https://ir.take2games.com/news-releases",
+      "type": "regex",
+      "pattern": "/(?:Grand Theft Auto(?:\\s*(?:®|&reg;|&#174;))?\\s+VI|GTA\\s?(?:VI|6))\\b(?:(?!Grand Theft Auto(?:\\s*(?:®|&reg;|&#174;))?\\s+V\\b|GTA\\s?V\\b|franchise|Red Dead|NBA|net bookings|guidance|outlook|fiscal|Sensor Tower|estimat|forecast|expect|&lt;|\\n\\s*\\n)[^<])*?(?|((?:[3-9]\\d|[1-9]\\d{2,})(?:[.,]\\d+)?\\s*million)\\s+(?:units|copies|players)|(\\$\\s?(?:[3-9]|[1-9]\\d+)(?:\\.\\d+)?\\s*billion))/isu",
+      "active_from": "2026-11-20T07:20:00+01:00",
+      "active_until": "2026-11-24T23:59:00+01:00",
+      "title": "GTA VI: Rekord-Verkaufszahlen offiziell",
+      "message": "Take-Two meldet offiziell {wert} – klar über der Schätzung von Sensor Tower (24,6 Mio. Stück / 2,36 Mrd. $, ca. 2,15 Mrd. €). TTWO-Kurs jetzt prüfen, nicht blind kaufen. (Muster ungetestet)",
+      "manuell": true
+    },
+    {
+      "id": "ttwo-gta6-rekordzahlen-ir-rss",
+      "url": "https://ir.take2games.com/rss/news-releases.xml",
+      "type": "regex",
+      "pattern": "/(?:Grand Theft Auto(?:\\s*(?:®|&reg;|&#174;))?\\s+VI|GTA\\s?(?:VI|6))\\b(?:(?!Grand Theft Auto(?:\\s*(?:®|&reg;|&#174;))?\\s+V\\b|GTA\\s?V\\b|franchise|Red Dead|NBA|net bookings|guidance|outlook|fiscal|Sensor Tower|estimat|forecast|expect|&lt;|\\n\\s*\\n)[^<])*?(?|((?:[3-9]\\d|[1-9]\\d{2,})(?:[.,]\\d+)?\\s*million)\\s+(?:units|copies|players)|(\\$\\s?(?:[3-9]|[1-9]\\d+)(?:\\.\\d+)?\\s*billion))/isu",
+      "active_from": "2026-11-20T07:20:00+01:00",
+      "active_until": "2026-11-24T23:59:00+01:00",
+      "title": "GTA VI: Rekord-Verkaufszahlen offiziell",
+      "message": "Take-Two meldet offiziell {wert} – klar über der Schätzung von Sensor Tower (24,6 Mio. Stück / 2,36 Mrd. $, ca. 2,15 Mrd. €). TTWO-Kurs jetzt prüfen, nicht blind kaufen. (Muster ungetestet)",
+      "manuell": true
+    }
+  ]
 }
