@@ -200,6 +200,54 @@
       "active_until": "2026-12-01T23:35:00+01:00",
       "title": "OKTA: Zahlen-8-K da",
       "message": "Okta hat die Quartalszahlen bei der SEC eingereicht ({zeit}). Ausblick prüfen, Telefonkonferenz 23:00: {link}"
+    },
+    {
+      "id": "zs-zahlen-2026-12-01",
+      "type": "sec8k",
+      "ticker": "ZS",
+      "items": [
+        "2.02"
+      ],
+      "active_from": "2026-12-01T21:55:00+01:00",
+      "active_until": "2026-12-02T01:30:00+01:00",
+      "title": "ZS: Zahlen-8-K da",
+      "message": "Zscaler hat die Quartalszahlen bei der SEC eingereicht ({zeit}). Cybersicherheit: Umsatz, Jahres-Abo-Umsätze und Ausblick prüfen: {link}"
+    },
+    {
+      "id": "crdo-zahlen-2026-12-01",
+      "type": "sec8k",
+      "ticker": "CRDO",
+      "items": [
+        "2.02"
+      ],
+      "active_from": "2026-12-01T21:55:00+01:00",
+      "active_until": "2026-12-02T01:30:00+01:00",
+      "title": "CRDO: Zahlen-8-K da",
+      "message": "Credo hat die Quartalszahlen bei der SEC eingereicht ({zeit}). Chip-Verbindungen für KI-Rechenzentren: Umsatz und Ausblick prüfen: {link}"
+    },
+    {
+      "id": "ntap-zahlen-2026-12-01",
+      "type": "sec8k",
+      "ticker": "NTAP",
+      "items": [
+        "2.02"
+      ],
+      "active_from": "2026-12-01T21:55:00+01:00",
+      "active_until": "2026-12-02T01:30:00+01:00",
+      "title": "NTAP: Zahlen-8-K da",
+      "message": "NetApp hat die Quartalszahlen bei der SEC eingereicht ({zeit}). Datenspeicher: Umsatz und Ausblick prüfen: {link}"
+    },
+    {
+      "id": "box-zahlen-2026-12-01",
+      "type": "sec8k",
+      "ticker": "BOX",
+      "items": [
+        "2.02"
+      ],
+      "active_from": "2026-12-01T21:55:00+01:00",
+      "active_until": "2026-12-02T01:30:00+01:00",
+      "title": "BOX: Zahlen-8-K da",
+      "message": "Box hat die Quartalszahlen bei der SEC eingereicht ({zeit}). Cloud-Software: Umsatz und Jahresausblick prüfen: {link}"
     }
   ]
 }
