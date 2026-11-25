@@ -164,6 +164,42 @@
       "active_until": "2026-12-01T23:35:00+01:00",
       "title": "CRWD: Zahlen-8-K da",
       "message": "CrowdStrike hat die Quartalszahlen bei der SEC eingereicht ({zeit}). Ausblick und neue Jahres-Abo-Umsätze prüfen, Telefonkonferenz 23:00: {link}"
+    },
+    {
+      "id": "crm-zahlen-2026-12-02",
+      "type": "sec8k",
+      "ticker": "CRM",
+      "items": [
+        "2.02"
+      ],
+      "active_from": "2026-12-02T21:55:00+01:00",
+      "active_until": "2026-12-02T23:35:00+01:00",
+      "title": "CRM: Zahlen-8-K da",
+      "message": "Salesforce hat die Quartalszahlen bei der SEC eingereicht ({zeit}). Ausblick und KI-Agenten-Umsatz prüfen, Telefonkonferenz 23:00: {link}"
+    },
+    {
+      "id": "snow-zahlen-2026-12-02",
+      "type": "sec8k",
+      "ticker": "SNOW",
+      "items": [
+        "2.02"
+      ],
+      "active_from": "2026-12-02T21:55:00+01:00",
+      "active_until": "2026-12-02T23:35:00+01:00",
+      "title": "SNOW: Zahlen-8-K da",
+      "message": "Snowflake hat die Quartalszahlen bei der SEC eingereicht ({zeit}). Produktumsatz und Ausblick prüfen, Telefonkonferenz 23:00: {link}"
+    },
+    {
+      "id": "okta-zahlen-2026-12-01",
+      "type": "sec8k",
+      "ticker": "OKTA",
+      "items": [
+        "2.02"
+      ],
+      "active_from": "2026-12-01T21:55:00+01:00",
+      "active_until": "2026-12-01T23:35:00+01:00",
+      "title": "OKTA: Zahlen-8-K da",
+      "message": "Okta hat die Quartalszahlen bei der SEC eingereicht ({zeit}). Ausblick prüfen, Telefonkonferenz 23:00: {link}"
     }
   ]
 }
